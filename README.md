@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marcovabu.
+- 👀 I’m interested in Electronics.
+- 🌱 I’m currently learning Arduino & PCB components.
+- 💞️ I’m looking to collaborate on programming Arduino.
